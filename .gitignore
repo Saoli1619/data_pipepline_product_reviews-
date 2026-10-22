@@ -19,3 +19,7 @@ __pycache__/
 # IDE settings
 .vscode/
 .idea/
+
+# Ignore local AI model files
+sst2_model/
+
